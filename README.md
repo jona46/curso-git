@@ -1,2 +1,2 @@
 # curso-git
-Este es un ejemplo de uso de git
+Este es un ejemplo de prueba de uso de git
